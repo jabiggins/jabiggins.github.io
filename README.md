@@ -2,8 +2,7 @@
 
 By Vlad Dobrin and James Biggins
 
-## View our Project Here
-https://jabiggins.github.io/PoliticalPartisanshipInCongress.html
+## View our Project [HERE](https://jabiggins.github.io/PoliticalPartisanshipInCongress)
 
 ## Reproducibility
 
