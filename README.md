@@ -16,10 +16,10 @@ Web scraping the data took two weeks to fine tune, and even if you don't make an
 
 #### Important files
 Assuming you have convinced yourself that our scrape works, we included 4 files that you will need to upload to the Google Colab project in order to get to all the ML stuff. 
-* houseCongressTable
-* houseVoteTable
-* senateCongressTable
-* senateVoteTable
+* [houseCongressTable](https://jabiggins.github.io/houseCongressTable.csv)
+* [houseVoteTable](https://jabiggins.github.io/houseVoteTable.csv)
+* [senateCongressTable](https://jabiggins.github.io/senateCongressTable.csv)
+* [senateVoteTable](https://jabiggins.github.io/senateVoteTable.csv)
 
 These files contain the entirety of the scraped and cleaned data that will be used in sections 3 and 4. Once you uploaded everything, start execution at the big bold checkpoint section on the table of contents, you can't miss it.
 
