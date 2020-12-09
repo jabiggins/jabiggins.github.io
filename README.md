@@ -2,6 +2,9 @@
 
 By Vlad Dobrin and James Biggins
 
+## View our Project Here
+https://jabiggins.github.io/PoliticalPartisanshipInCongress.html
+
 ## Reproducibility
 
 Our project is long, and has a lot of moving parts. If you are simply looking at the project, then ignore this section. If want to reproduce it, keep reading.
